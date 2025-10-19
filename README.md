@@ -24,6 +24,3 @@ geospatial delivery behavior, clustering, and operational dynamics.
 
 ###  Author
 Developed by **Sreekar**  Data Analytics & Product Management.
-
-### 🔗 Read the Story
-Full write-up: [Project Traceroute on Substack]([https://your-substack-url](https://open.substack.com/pub/sreekaryerragunta/p/india-geospatial-delivery-intelligence?r=6dxman&utm_campaign=post&utm_medium=web))
