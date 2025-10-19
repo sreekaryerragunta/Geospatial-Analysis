@@ -26,4 +26,4 @@ geospatial delivery behavior, clustering, and operational dynamics.
 Developed by **Sreekar**  Data Analytics & Product Management.
 
 ###  Read the Story
-Full write-up: [Project Traceroute on Substack](https://your-substack-url)
+Full write-up: [Project Traceroute on Substack]([https://your-substack-url](https://substack.com/home/post/p-176577940))
