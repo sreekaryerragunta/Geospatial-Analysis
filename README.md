@@ -19,11 +19,11 @@ geospatial delivery behavior, clustering, and operational dynamics.
 
 ###  Files
 - `GeoSpatial_Analysis.ipynb` — Main project notebook  
-- `India_Geospatial_Delivery_Clustering_Report.pdf` — Final report  
-- `requirements.txt` — Dependencies  
+- `India_Geospatial_Delivery_Clustering_Report.pdf` Final report  
+- `requirements.txt`  Dependencies  
 
 ###  Author
-Developed by **Sreekar** — Data Analytics & Product Management.
+Developed by **Sreekar**  Data Analytics & Product Management.
 
 ###  Read the Story
 Full write-up: [Project Traceroute on Substack](https://your-substack-url)
