@@ -18,9 +18,9 @@ geospatial delivery behavior, clustering, and operational dynamics.
 | Cluster Membership Prediction | LightGBM | 0.96 | 0.95 |
 
 ###  Files
-- `GeoSpatial_Analysis.ipynb` — Main project notebook  
+- `GeoSpatial_Analysis.ipynb` - Main project notebook  
 - `India_Geospatial_Delivery_Clustering_Report.pdf` Final report  
 - `requirements.txt`  Dependencies  
 
 ###  Author
-Developed by **Sreekar**  Data Analytics & Product Management.
+Developed by **Sreekar**  
